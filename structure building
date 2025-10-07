@@ -1,0 +1,13 @@
+zimrussia-connect/
+├── .github/
+│   └── workflows/          # CI/CD configurations
+├── public/                 # Static files
+├── src/
+│   ├── components/         # Reusable components
+│   ├── pages/             # Page components
+│   ├── hooks/             # Custom React hooks
+│   ├── context/           # React Context files
+│   ├── utils/             # Helper functions
+│   └── services/          # API services
+├── docs/                  # Documentation
+└── tests/                 # Test files
